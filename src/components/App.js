@@ -1,8 +1,8 @@
 
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import ItemList from "./components/ItemList";
-import ItemDetail from "./components/ItemDetail";
+import ItemList from "./../components/ItemList";
+import ItemDetail from "./../components/ItemDetail";
 import './../styles/App.css';
 
 const App = () => {
